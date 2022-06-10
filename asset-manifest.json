@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livechat_firebase/static/css/main.dff5506e.css",
+    "main.js": "/livechat_firebase/static/js/main.12624be4.js",
+    "static/js/787.dfb6d915.chunk.js": "/livechat_firebase/static/js/787.dfb6d915.chunk.js",
+    "index.html": "/livechat_firebase/index.html",
+    "main.dff5506e.css.map": "/livechat_firebase/static/css/main.dff5506e.css.map",
+    "main.12624be4.js.map": "/livechat_firebase/static/js/main.12624be4.js.map",
+    "787.dfb6d915.chunk.js.map": "/livechat_firebase/static/js/787.dfb6d915.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dff5506e.css",
+    "static/js/main.12624be4.js"
+  ]
+}
